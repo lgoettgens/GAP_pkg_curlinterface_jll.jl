@@ -1,86 +1,86 @@
 [[GAP_pkg_curlinterface]]
 arch = "aarch64"
-git-tree-sha1 = "29df8a7324fbf6f546bfbbb9e95557aeb51ddd37"
+git-tree-sha1 = "3d77454878515d0a86d1b28c44d708cbe4aeb1e7"
 os = "macos"
 
     [[GAP_pkg_curlinterface.download]]
-    sha256 = "fef091ab7242137eaac7fbc3b18a645fdacd85f4183eee91944052247be0eda1"
-    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40300.0+0/GAP_pkg_curlinterface.v201.40300.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "673f9e3061c186ae5465cfa42f512ac87ccca8aaee2daefc8c51da1dfd1b7d71"
+    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40400.0+0/GAP_pkg_curlinterface.v201.40400.0.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_curlinterface]]
 arch = "aarch64"
-git-tree-sha1 = "c9d08de8a8aaf6ccf912603b698397f2fc0406e2"
+git-tree-sha1 = "89e891e790dece7773a390ce6eacf83df6b1cd3b"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_curlinterface.download]]
-    sha256 = "66a943429861d184abb74486b18865e653b16d2f27438e1fa6ef935d235e4b9d"
-    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40300.0+0/GAP_pkg_curlinterface.v201.40300.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "0781e17e3733cb98a53656bacd82dab8cc068a0518944678071c1f123e16e78d"
+    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40400.0+0/GAP_pkg_curlinterface.v201.40400.0.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_curlinterface]]
 arch = "aarch64"
-git-tree-sha1 = "1cb92588ebf13b24536d9f808e7746588aff14d0"
+git-tree-sha1 = "26bfaf17d71ae7ce92634597ad4b4c3fcdfc36fa"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_curlinterface.download]]
-    sha256 = "fd28e0bb890e72b71e6717269b9f0095ad66c663302fdc1ee771b17f0835a666"
-    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40300.0+0/GAP_pkg_curlinterface.v201.40300.0.aarch64-linux-musl.tar.gz"
+    sha256 = "98e8492038d09bf7a2f5104af7712043d592d46b642146290d90bbb0c44c022c"
+    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40400.0+0/GAP_pkg_curlinterface.v201.40400.0.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_curlinterface]]
 arch = "aarch64"
-git-tree-sha1 = "f9c13f9f546fef60170e49b73effd0cf40c84f38"
+git-tree-sha1 = "31e55d546c45874e281310e24eff6e95597c1a0a"
 os = "freebsd"
 
     [[GAP_pkg_curlinterface.download]]
-    sha256 = "680cbf8545de3c3f57622d24b7522654f37c798b5e93a06faf793449cf1ee7a3"
-    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40300.0+0/GAP_pkg_curlinterface.v201.40300.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "8f9837e3e68437ce0c9c2f176d609476e93d833c3e912dbc779484c3c40982d8"
+    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40400.0+0/GAP_pkg_curlinterface.v201.40400.0.aarch64-unknown-freebsd.tar.gz"
 [[GAP_pkg_curlinterface]]
 arch = "powerpc64le"
-git-tree-sha1 = "d977e82e67d0d8ad876bb2edc22da9ff0927fa0b"
+git-tree-sha1 = "0f48ddecb9e1ef94b0a97524b0984415e4487563"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_curlinterface.download]]
-    sha256 = "7f064c7986c4c6e0f101389ef84cf9553df6c0e62a34db41b09cde8602e2a5ed"
-    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40300.0+0/GAP_pkg_curlinterface.v201.40300.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "256386c25b670eebe708b904f8fb8d30cb3af488d8165ea87c36c458371a33a7"
+    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40400.0+0/GAP_pkg_curlinterface.v201.40400.0.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_curlinterface]]
 arch = "riscv64"
-git-tree-sha1 = "5877e9dada3ee2f40590866bdfd8962c0b2b243c"
+git-tree-sha1 = "43d218c17e3ee154eda34f06019042c4ee17382a"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_curlinterface.download]]
-    sha256 = "405820c232379bf8dd3afa846c1a3f962fe02c707a8bff988c0c32360f4f1b81"
-    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40300.0+0/GAP_pkg_curlinterface.v201.40300.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "a5cdf9ec3e52a8244ea332841c098d0c7801c82a1be07deffcdc7a90f6e8539d"
+    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40400.0+0/GAP_pkg_curlinterface.v201.40400.0.riscv64-linux-gnu.tar.gz"
 [[GAP_pkg_curlinterface]]
 arch = "x86_64"
-git-tree-sha1 = "31804c5f54b673e26f754feef6da808b0356f100"
+git-tree-sha1 = "717538011e70031b218a6386d1284083ea592131"
 os = "macos"
 
     [[GAP_pkg_curlinterface.download]]
-    sha256 = "5c9540af9ec6df42a5bfbd00bc92a2fdc1ce6357a091675d09e175122f4666bb"
-    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40300.0+0/GAP_pkg_curlinterface.v201.40300.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "4ccb8633c7eecf6d5740d941cb92e6fc98204b17c250ebc0bb2a1c7263182c66"
+    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40400.0+0/GAP_pkg_curlinterface.v201.40400.0.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_curlinterface]]
 arch = "x86_64"
-git-tree-sha1 = "f511a116216e33bcb91e3b8215222fd8fa069dc9"
+git-tree-sha1 = "1ed3d0deed543635354a2422804d5dc275b18de0"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_curlinterface.download]]
-    sha256 = "37e8809b04c25fb51ae194e3a8e8b0b23a81530cf9465b9a722a4f7604ef61e9"
-    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40300.0+0/GAP_pkg_curlinterface.v201.40300.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "952d1d64a177e42d0ff6c91176d952fdb514fb7095fbac264b74882cdd5dac77"
+    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40400.0+0/GAP_pkg_curlinterface.v201.40400.0.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_curlinterface]]
 arch = "x86_64"
-git-tree-sha1 = "38c39e1f2c95d7e04927906889356761790eac03"
+git-tree-sha1 = "b13d8a38152f036e37a5c8bb2b1f1c3e08cbd04f"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_curlinterface.download]]
-    sha256 = "e292797b3c2262b86c2b64b1ad49665d4a4e18bf4c1da80b71f95ceb6805ba8c"
-    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40300.0+0/GAP_pkg_curlinterface.v201.40300.0.x86_64-linux-musl.tar.gz"
+    sha256 = "b1ec71e38d8acc455f89383258cc4c05577671ac192d33721fbc04396ada4cb5"
+    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40400.0+0/GAP_pkg_curlinterface.v201.40400.0.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_curlinterface]]
 arch = "x86_64"
-git-tree-sha1 = "190cef5a894f9425d02fbe7648ee44e6ab6a57d0"
+git-tree-sha1 = "19f70c359fcfcf2ac6b11f70dad3aab7d64cfac1"
 os = "freebsd"
 
     [[GAP_pkg_curlinterface.download]]
-    sha256 = "5a50d828bedb181d07b5c9ab8cd4f138ef08e787c2ae0e9ade83104e44169c30"
-    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40300.0+0/GAP_pkg_curlinterface.v201.40300.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "b3e605e8254c7b8edeb61479b7d6cbaa97985367e3e21b3094314b0deca31a27"
+    url = "https://github.com/lgoettgens/GAP_pkg_curlinterface_jll.jl/releases/download/GAP_pkg_curlinterface-v201.40400.0+0/GAP_pkg_curlinterface.v201.40400.0.x86_64-unknown-freebsd.tar.gz"

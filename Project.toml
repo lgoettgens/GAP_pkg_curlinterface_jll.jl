@@ -1,6 +1,6 @@
 name = "GAP_pkg_curlinterface_jll"
 uuid = "deeb07ae-e8f4-5d6c-9f2a-02b0e630ae3b"
-version = "201.40300.0+0"
+version = "201.40400.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -14,4 +14,5 @@ JLLWrappers = "1.7.0"
 julia = "1.10"
 LibCURL_jll = "7.73,8"
 Libdl = "< 0.0.1, 1"
+GAP_jll = "~400.1600.0"
 Artifacts = "< 0.0.1, 1"
